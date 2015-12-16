@@ -7,7 +7,7 @@ navs_for_json = {}
 navs_for_xml = []
 
 Dir['navs/*.csv'].each do |csv_file|
-  nav = CSV.read(csv_file, headers: true).map(&:to_hash)
+  nav = CSV.read(csv_file, headers: true, converters: [:integer]).map(&:to_hash)
   nav_by_parent = nav.group_by { |nav| nav['parent'] }.select { |parent, _| parent }
   nav_by_index = {}
   nav.group_by { |nav| nav['index'] }.each { |index, nav| nav_by_index[index] = nav[0] }
