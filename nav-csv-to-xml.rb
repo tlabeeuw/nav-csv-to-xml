@@ -22,5 +22,5 @@ Dir['in/*.csv'].each do |csv_file|
   navs_for_xml << { site_name: site_name, items: items}
 end
 
-File.write('out/navs.json', navs_for_json)
+File.write('out/navs.json', JSON.pretty_generate(navs_for_json))
 File.write('out/navs.xml', navs_for_xml.to_xml(root: 'sites'))

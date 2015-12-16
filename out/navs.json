@@ -1,1 +1,406 @@
-{"alabama"=>[{"index"=>1, "title"=>"Home", "link"=>"https://texas.n.rivals.com/", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>nil}, {"index"=>2, "title"=>"Forums", "link"=>"https://texas.forums.rivals.com/", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>nil}, {"index"=>3, "title"=>"Football", "link"=>nil, "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>nil, "items"=>[{"index"=>4, "title"=>"Schedule", "link"=>"http://sports.yahoo.com/ncaaf/teams/tth/schedule/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>3}, {"index"=>5, "title"=>"Roster", "link"=>"http://sports.yahoo.com/ncaaf/teams/tth/roster/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>3}, {"index"=>6, "title"=>"Statistics", "link"=>"http://sports.yahoo.com/ncaaf/teams/tth/stats/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>3}, {"index"=>7, "title"=>"Commitment List", "link"=>"https://rivals.yahoo.com/texas/football/recruiting/commitments/", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>3}]}, {"index"=>8, "title"=>"Rankings", "link"=>"https://rivals.yahoo.com/texas/football/recruiting/rankings/2015", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>nil}, {"index"=>9, "title"=>"Team Rankings", "link"=>"https://rivals.yahoo.com/texas/football/recruiting/teamrank/2016/all/all", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>nil}, {"index"=>10, "title"=>"Basketball", "link"=>nil, "nofollow"=>nil, "noreferer"=>nil, "target"=>nil, "description"=>nil, "parent"=>nil, "items"=>[{"index"=>12, "title"=>"Roster", "link"=>"https://sports.yahoo.com/ncaab/teams/tal/roster/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>10}, {"index"=>13, "title"=>"Statistics", "link"=>"https://sports.yahoo.com/ncaab/teams/tal/stats/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>10}, {"index"=>14, "title"=>"Commitment List", "link"=>"https://rivals.yahoo.com/texas/basketball/recruiting/commitments/", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>10, "items"=>[{"index"=>11, "title"=>"Schedule", "link"=>"https://sports.yahoo.com/ncaab/teams/tal/schedule/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>14}]}, {"index"=>15, "title"=>"Rankings", "link"=>"https://rivals.yahoo.com/texas/basketball/recruiting/rankings/2015", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>10, "items"=>[{"index"=>17, "title"=>"Custom", "link"=>nil, "nofollow"=>nil, "noreferer"=>nil, "target"=>nil, "description"=>nil, "parent"=>15, "items"=>[{"index"=>16, "title"=>"Custom", "link"=>nil, "nofollow"=>nil, "noreferer"=>nil, "target"=>nil, "description"=>nil, "parent"=>17}]}, {"index"=>18, "title"=>"College Teams", "link"=>nil, "nofollow"=>nil, "noreferer"=>nil, "target"=>nil, "description"=>nil, "parent"=>15}, {"index"=>19, "title"=>"High School Teams", "link"=>nil, "nofollow"=>nil, "noreferer"=>nil, "target"=>nil, "description"=>nil, "parent"=>15}]}]}], "usc"=>[{"index"=>1, "title"=>"Home", "link"=>"https://texas.n.rivals.com/", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>nil}, {"index"=>2, "title"=>"Forums", "link"=>"https://texas.forums.rivals.com/", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>nil}, {"index"=>3, "title"=>"Football", "link"=>nil, "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>nil, "items"=>[{"index"=>4, "title"=>"Schedule", "link"=>"http://sports.yahoo.com/ncaaf/teams/tth/schedule/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>3}, {"index"=>5, "title"=>"Roster", "link"=>"http://sports.yahoo.com/ncaaf/teams/tth/roster/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>3}, {"index"=>6, "title"=>"Statistics", "link"=>"http://sports.yahoo.com/ncaaf/teams/tth/stats/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>3}, {"index"=>7, "title"=>"Commitment List", "link"=>"https://rivals.yahoo.com/texas/football/recruiting/commitments/", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>3}]}, {"index"=>8, "title"=>"Rankings", "link"=>"https://rivals.yahoo.com/texas/football/recruiting/rankings/2015", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>nil}, {"index"=>9, "title"=>"Team Rankings", "link"=>"https://rivals.yahoo.com/texas/football/recruiting/teamrank/2016/all/all", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>nil}, {"index"=>10, "title"=>"Basketball", "link"=>nil, "nofollow"=>nil, "noreferer"=>nil, "target"=>nil, "description"=>nil, "parent"=>nil, "items"=>[{"index"=>12, "title"=>"Roster", "link"=>"https://sports.yahoo.com/ncaab/teams/tal/roster/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>10}, {"index"=>13, "title"=>"Statistics", "link"=>"https://sports.yahoo.com/ncaab/teams/tal/stats/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>10}, {"index"=>14, "title"=>"Commitment List", "link"=>"https://rivals.yahoo.com/texas/basketball/recruiting/commitments/", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>10, "items"=>[{"index"=>11, "title"=>"Schedule", "link"=>"https://sports.yahoo.com/ncaab/teams/tal/schedule/", "nofollow"=>1, "noreferer"=>0, "target"=>"_blank", "description"=>nil, "parent"=>14}]}, {"index"=>15, "title"=>"Rankings", "link"=>"https://rivals.yahoo.com/texas/basketball/recruiting/rankings/2015", "nofollow"=>0, "noreferer"=>0, "target"=>nil, "description"=>nil, "parent"=>10, "items"=>[{"index"=>17, "title"=>"Custom", "link"=>nil, "nofollow"=>nil, "noreferer"=>nil, "target"=>nil, "description"=>nil, "parent"=>15, "items"=>[{"index"=>16, "title"=>"Custom", "link"=>nil, "nofollow"=>nil, "noreferer"=>nil, "target"=>nil, "description"=>nil, "parent"=>17}]}, {"index"=>18, "title"=>"College Teams", "link"=>nil, "nofollow"=>nil, "noreferer"=>nil, "target"=>nil, "description"=>nil, "parent"=>15}, {"index"=>19, "title"=>"High School Teams", "link"=>nil, "nofollow"=>nil, "noreferer"=>nil, "target"=>nil, "description"=>nil, "parent"=>15}]}]}]}
+{
+  "alabama": [
+    {
+      "index": 1,
+      "title": "Home",
+      "link": "https://texas.n.rivals.com/",
+      "nofollow": 0,
+      "noreferer": 0,
+      "target": null,
+      "description": null,
+      "parent": null
+    },
+    {
+      "index": 2,
+      "title": "Forums",
+      "link": "https://texas.forums.rivals.com/",
+      "nofollow": 0,
+      "noreferer": 0,
+      "target": null,
+      "description": null,
+      "parent": null
+    },
+    {
+      "index": 3,
+      "title": "Football",
+      "link": null,
+      "nofollow": 0,
+      "noreferer": 0,
+      "target": null,
+      "description": null,
+      "parent": null,
+      "items": [
+        {
+          "index": 4,
+          "title": "Schedule",
+          "link": "http://sports.yahoo.com/ncaaf/teams/tth/schedule/",
+          "nofollow": 1,
+          "noreferer": 0,
+          "target": "_blank",
+          "description": null,
+          "parent": 3
+        },
+        {
+          "index": 5,
+          "title": "Roster",
+          "link": "http://sports.yahoo.com/ncaaf/teams/tth/roster/",
+          "nofollow": 1,
+          "noreferer": 0,
+          "target": "_blank",
+          "description": null,
+          "parent": 3
+        },
+        {
+          "index": 6,
+          "title": "Statistics",
+          "link": "http://sports.yahoo.com/ncaaf/teams/tth/stats/",
+          "nofollow": 1,
+          "noreferer": 0,
+          "target": "_blank",
+          "description": null,
+          "parent": 3
+        },
+        {
+          "index": 7,
+          "title": "Commitment List",
+          "link": "https://rivals.yahoo.com/texas/football/recruiting/commitments/",
+          "nofollow": 0,
+          "noreferer": 0,
+          "target": null,
+          "description": null,
+          "parent": 3
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "title": "Rankings",
+      "link": "https://rivals.yahoo.com/texas/football/recruiting/rankings/2015",
+      "nofollow": 0,
+      "noreferer": 0,
+      "target": null,
+      "description": null,
+      "parent": null
+    },
+    {
+      "index": 9,
+      "title": "Team Rankings",
+      "link": "https://rivals.yahoo.com/texas/football/recruiting/teamrank/2016/all/all",
+      "nofollow": 0,
+      "noreferer": 0,
+      "target": null,
+      "description": null,
+      "parent": null
+    },
+    {
+      "index": 10,
+      "title": "Basketball",
+      "link": null,
+      "nofollow": null,
+      "noreferer": null,
+      "target": null,
+      "description": null,
+      "parent": null,
+      "items": [
+        {
+          "index": 12,
+          "title": "Roster",
+          "link": "https://sports.yahoo.com/ncaab/teams/tal/roster/",
+          "nofollow": 1,
+          "noreferer": 0,
+          "target": "_blank",
+          "description": null,
+          "parent": 10
+        },
+        {
+          "index": 13,
+          "title": "Statistics",
+          "link": "https://sports.yahoo.com/ncaab/teams/tal/stats/",
+          "nofollow": 1,
+          "noreferer": 0,
+          "target": "_blank",
+          "description": null,
+          "parent": 10
+        },
+        {
+          "index": 14,
+          "title": "Commitment List",
+          "link": "https://rivals.yahoo.com/texas/basketball/recruiting/commitments/",
+          "nofollow": 0,
+          "noreferer": 0,
+          "target": null,
+          "description": null,
+          "parent": 10,
+          "items": [
+            {
+              "index": 11,
+              "title": "Schedule",
+              "link": "https://sports.yahoo.com/ncaab/teams/tal/schedule/",
+              "nofollow": 1,
+              "noreferer": 0,
+              "target": "_blank",
+              "description": null,
+              "parent": 14
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "title": "Rankings",
+          "link": "https://rivals.yahoo.com/texas/basketball/recruiting/rankings/2015",
+          "nofollow": 0,
+          "noreferer": 0,
+          "target": null,
+          "description": null,
+          "parent": 10,
+          "items": [
+            {
+              "index": 17,
+              "title": "Custom",
+              "link": null,
+              "nofollow": null,
+              "noreferer": null,
+              "target": null,
+              "description": null,
+              "parent": 15,
+              "items": [
+                {
+                  "index": 16,
+                  "title": "Custom",
+                  "link": null,
+                  "nofollow": null,
+                  "noreferer": null,
+                  "target": null,
+                  "description": null,
+                  "parent": 17
+                }
+              ]
+            },
+            {
+              "index": 18,
+              "title": "College Teams",
+              "link": null,
+              "nofollow": null,
+              "noreferer": null,
+              "target": null,
+              "description": null,
+              "parent": 15
+            },
+            {
+              "index": 19,
+              "title": "High School Teams",
+              "link": null,
+              "nofollow": null,
+              "noreferer": null,
+              "target": null,
+              "description": null,
+              "parent": 15
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "usc": [
+    {
+      "index": 1,
+      "title": "Home",
+      "link": "https://texas.n.rivals.com/",
+      "nofollow": 0,
+      "noreferer": 0,
+      "target": null,
+      "description": null,
+      "parent": null
+    },
+    {
+      "index": 2,
+      "title": "Forums",
+      "link": "https://texas.forums.rivals.com/",
+      "nofollow": 0,
+      "noreferer": 0,
+      "target": null,
+      "description": null,
+      "parent": null
+    },
+    {
+      "index": 3,
+      "title": "Football",
+      "link": null,
+      "nofollow": 0,
+      "noreferer": 0,
+      "target": null,
+      "description": null,
+      "parent": null,
+      "items": [
+        {
+          "index": 4,
+          "title": "Schedule",
+          "link": "http://sports.yahoo.com/ncaaf/teams/tth/schedule/",
+          "nofollow": 1,
+          "noreferer": 0,
+          "target": "_blank",
+          "description": null,
+          "parent": 3
+        },
+        {
+          "index": 5,
+          "title": "Roster",
+          "link": "http://sports.yahoo.com/ncaaf/teams/tth/roster/",
+          "nofollow": 1,
+          "noreferer": 0,
+          "target": "_blank",
+          "description": null,
+          "parent": 3
+        },
+        {
+          "index": 6,
+          "title": "Statistics",
+          "link": "http://sports.yahoo.com/ncaaf/teams/tth/stats/",
+          "nofollow": 1,
+          "noreferer": 0,
+          "target": "_blank",
+          "description": null,
+          "parent": 3
+        },
+        {
+          "index": 7,
+          "title": "Commitment List",
+          "link": "https://rivals.yahoo.com/texas/football/recruiting/commitments/",
+          "nofollow": 0,
+          "noreferer": 0,
+          "target": null,
+          "description": null,
+          "parent": 3
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "title": "Rankings",
+      "link": "https://rivals.yahoo.com/texas/football/recruiting/rankings/2015",
+      "nofollow": 0,
+      "noreferer": 0,
+      "target": null,
+      "description": null,
+      "parent": null
+    },
+    {
+      "index": 9,
+      "title": "Team Rankings",
+      "link": "https://rivals.yahoo.com/texas/football/recruiting/teamrank/2016/all/all",
+      "nofollow": 0,
+      "noreferer": 0,
+      "target": null,
+      "description": null,
+      "parent": null
+    },
+    {
+      "index": 10,
+      "title": "Basketball",
+      "link": null,
+      "nofollow": null,
+      "noreferer": null,
+      "target": null,
+      "description": null,
+      "parent": null,
+      "items": [
+        {
+          "index": 12,
+          "title": "Roster",
+          "link": "https://sports.yahoo.com/ncaab/teams/tal/roster/",
+          "nofollow": 1,
+          "noreferer": 0,
+          "target": "_blank",
+          "description": null,
+          "parent": 10
+        },
+        {
+          "index": 13,
+          "title": "Statistics",
+          "link": "https://sports.yahoo.com/ncaab/teams/tal/stats/",
+          "nofollow": 1,
+          "noreferer": 0,
+          "target": "_blank",
+          "description": null,
+          "parent": 10
+        },
+        {
+          "index": 14,
+          "title": "Commitment List",
+          "link": "https://rivals.yahoo.com/texas/basketball/recruiting/commitments/",
+          "nofollow": 0,
+          "noreferer": 0,
+          "target": null,
+          "description": null,
+          "parent": 10,
+          "items": [
+            {
+              "index": 11,
+              "title": "Schedule",
+              "link": "https://sports.yahoo.com/ncaab/teams/tal/schedule/",
+              "nofollow": 1,
+              "noreferer": 0,
+              "target": "_blank",
+              "description": null,
+              "parent": 14
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "title": "Rankings",
+          "link": "https://rivals.yahoo.com/texas/basketball/recruiting/rankings/2015",
+          "nofollow": 0,
+          "noreferer": 0,
+          "target": null,
+          "description": null,
+          "parent": 10,
+          "items": [
+            {
+              "index": 17,
+              "title": "Custom",
+              "link": null,
+              "nofollow": null,
+              "noreferer": null,
+              "target": null,
+              "description": null,
+              "parent": 15,
+              "items": [
+                {
+                  "index": 16,
+                  "title": "Custom",
+                  "link": null,
+                  "nofollow": null,
+                  "noreferer": null,
+                  "target": null,
+                  "description": null,
+                  "parent": 17
+                }
+              ]
+            },
+            {
+              "index": 18,
+              "title": "College Teams",
+              "link": null,
+              "nofollow": null,
+              "noreferer": null,
+              "target": null,
+              "description": null,
+              "parent": 15
+            },
+            {
+              "index": 19,
+              "title": "High School Teams",
+              "link": null,
+              "nofollow": null,
+              "noreferer": null,
+              "target": null,
+              "description": null,
+              "parent": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
