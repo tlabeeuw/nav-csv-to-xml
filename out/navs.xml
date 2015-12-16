@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites type="array">
+  <site>
+    <site-name>alabama</site-name>
+    <items type="array">
+      <item>
+        <index type="integer">1</index>
+        <title>Home</title>
+        <link>https://texas.n.rivals.com/</link>
+        <nofollow type="integer">0</nofollow>
+        <noreferer type="integer">0</noreferer>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+      </item>
+      <item>
+        <index type="integer">2</index>
+        <title>Forums</title>
+        <link>https://texas.forums.rivals.com/</link>
+        <nofollow type="integer">0</nofollow>
+        <noreferer type="integer">0</noreferer>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+      </item>
+      <item>
+        <index type="integer">3</index>
+        <title>Football</title>
+        <link nil="true"/>
+        <nofollow type="integer">0</nofollow>
+        <noreferer type="integer">0</noreferer>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+        <items type="array">
+          <item>
+            <index type="integer">4</index>
+            <title>Schedule</title>
+            <link>http://sports.yahoo.com/ncaaf/teams/tth/schedule/</link>
+            <nofollow type="integer">1</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target>_blank</target>
+            <description nil="true"/>
+            <parent type="integer">3</parent>
+          </item>
+          <item>
+            <index type="integer">5</index>
+            <title>Roster</title>
+            <link>http://sports.yahoo.com/ncaaf/teams/tth/roster/</link>
+            <nofollow type="integer">1</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target>_blank</target>
+            <description nil="true"/>
+            <parent type="integer">3</parent>
+          </item>
+          <item>
+            <index type="integer">6</index>
+            <title>Statistics</title>
+            <link>http://sports.yahoo.com/ncaaf/teams/tth/stats/</link>
+            <nofollow type="integer">1</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target>_blank</target>
+            <description nil="true"/>
+            <parent type="integer">3</parent>
+          </item>
+          <item>
+            <index type="integer">7</index>
+            <title>Commitment List</title>
+            <link>https://rivals.yahoo.com/texas/football/recruiting/commitments/</link>
+            <nofollow type="integer">0</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target nil="true"/>
+            <description nil="true"/>
+            <parent type="integer">3</parent>
+          </item>
+        </items>
+      </item>
+      <item>
+        <index type="integer">8</index>
+        <title>Rankings</title>
+        <link>https://rivals.yahoo.com/texas/football/recruiting/rankings/2015</link>
+        <nofollow type="integer">0</nofollow>
+        <noreferer type="integer">0</noreferer>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+      </item>
+      <item>
+        <index type="integer">9</index>
+        <title>Team Rankings</title>
+        <link>https://rivals.yahoo.com/texas/football/recruiting/teamrank/2016/all/all</link>
+        <nofollow type="integer">0</nofollow>
+        <noreferer type="integer">0</noreferer>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+      </item>
+      <item>
+        <index type="integer">10</index>
+        <title>Basketball</title>
+        <link nil="true"/>
+        <nofollow nil="true"/>
+        <noreferer nil="true"/>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+        <items type="array">
+          <item>
+            <index type="integer">12</index>
+            <title>Roster</title>
+            <link>https://sports.yahoo.com/ncaab/teams/tal/roster/</link>
+            <nofollow type="integer">1</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target>_blank</target>
+            <description nil="true"/>
+            <parent type="integer">10</parent>
+          </item>
+          <item>
+            <index type="integer">13</index>
+            <title>Statistics</title>
+            <link>https://sports.yahoo.com/ncaab/teams/tal/stats/</link>
+            <nofollow type="integer">1</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target>_blank</target>
+            <description nil="true"/>
+            <parent type="integer">10</parent>
+          </item>
+          <item>
+            <index type="integer">14</index>
+            <title>Commitment List</title>
+            <link>https://rivals.yahoo.com/texas/basketball/recruiting/commitments/</link>
+            <nofollow type="integer">0</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target nil="true"/>
+            <description nil="true"/>
+            <parent type="integer">10</parent>
+            <items type="array">
+              <item>
+                <index type="integer">11</index>
+                <title>Schedule</title>
+                <link>https://sports.yahoo.com/ncaab/teams/tal/schedule/</link>
+                <nofollow type="integer">1</nofollow>
+                <noreferer type="integer">0</noreferer>
+                <target>_blank</target>
+                <description nil="true"/>
+                <parent type="integer">14</parent>
+              </item>
+            </items>
+          </item>
+          <item>
+            <index type="integer">15</index>
+            <title>Rankings</title>
+            <link>https://rivals.yahoo.com/texas/basketball/recruiting/rankings/2015</link>
+            <nofollow type="integer">0</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target nil="true"/>
+            <description nil="true"/>
+            <parent type="integer">10</parent>
+            <items type="array">
+              <item>
+                <index type="integer">17</index>
+                <title>Custom</title>
+                <link nil="true"/>
+                <nofollow nil="true"/>
+                <noreferer nil="true"/>
+                <target nil="true"/>
+                <description nil="true"/>
+                <parent type="integer">15</parent>
+                <items type="array">
+                  <item>
+                    <index type="integer">16</index>
+                    <title>Custom</title>
+                    <link nil="true"/>
+                    <nofollow nil="true"/>
+                    <noreferer nil="true"/>
+                    <target nil="true"/>
+                    <description nil="true"/>
+                    <parent type="integer">17</parent>
+                  </item>
+                </items>
+              </item>
+              <item>
+                <index type="integer">18</index>
+                <title>College Teams</title>
+                <link nil="true"/>
+                <nofollow nil="true"/>
+                <noreferer nil="true"/>
+                <target nil="true"/>
+                <description nil="true"/>
+                <parent type="integer">15</parent>
+              </item>
+              <item>
+                <index type="integer">19</index>
+                <title>High School Teams</title>
+                <link nil="true"/>
+                <nofollow nil="true"/>
+                <noreferer nil="true"/>
+                <target nil="true"/>
+                <description nil="true"/>
+                <parent type="integer">15</parent>
+              </item>
+            </items>
+          </item>
+        </items>
+      </item>
+    </items>
+  </site>
+  <site>
+    <site-name>usc</site-name>
+    <items type="array">
+      <item>
+        <index type="integer">1</index>
+        <title>Home</title>
+        <link>https://texas.n.rivals.com/</link>
+        <nofollow type="integer">0</nofollow>
+        <noreferer type="integer">0</noreferer>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+      </item>
+      <item>
+        <index type="integer">2</index>
+        <title>Forums</title>
+        <link>https://texas.forums.rivals.com/</link>
+        <nofollow type="integer">0</nofollow>
+        <noreferer type="integer">0</noreferer>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+      </item>
+      <item>
+        <index type="integer">3</index>
+        <title>Football</title>
+        <link nil="true"/>
+        <nofollow type="integer">0</nofollow>
+        <noreferer type="integer">0</noreferer>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+        <items type="array">
+          <item>
+            <index type="integer">4</index>
+            <title>Schedule</title>
+            <link>http://sports.yahoo.com/ncaaf/teams/tth/schedule/</link>
+            <nofollow type="integer">1</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target>_blank</target>
+            <description nil="true"/>
+            <parent type="integer">3</parent>
+          </item>
+          <item>
+            <index type="integer">5</index>
+            <title>Roster</title>
+            <link>http://sports.yahoo.com/ncaaf/teams/tth/roster/</link>
+            <nofollow type="integer">1</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target>_blank</target>
+            <description nil="true"/>
+            <parent type="integer">3</parent>
+          </item>
+          <item>
+            <index type="integer">6</index>
+            <title>Statistics</title>
+            <link>http://sports.yahoo.com/ncaaf/teams/tth/stats/</link>
+            <nofollow type="integer">1</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target>_blank</target>
+            <description nil="true"/>
+            <parent type="integer">3</parent>
+          </item>
+          <item>
+            <index type="integer">7</index>
+            <title>Commitment List</title>
+            <link>https://rivals.yahoo.com/texas/football/recruiting/commitments/</link>
+            <nofollow type="integer">0</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target nil="true"/>
+            <description nil="true"/>
+            <parent type="integer">3</parent>
+          </item>
+        </items>
+      </item>
+      <item>
+        <index type="integer">8</index>
+        <title>Rankings</title>
+        <link>https://rivals.yahoo.com/texas/football/recruiting/rankings/2015</link>
+        <nofollow type="integer">0</nofollow>
+        <noreferer type="integer">0</noreferer>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+      </item>
+      <item>
+        <index type="integer">9</index>
+        <title>Team Rankings</title>
+        <link>https://rivals.yahoo.com/texas/football/recruiting/teamrank/2016/all/all</link>
+        <nofollow type="integer">0</nofollow>
+        <noreferer type="integer">0</noreferer>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+      </item>
+      <item>
+        <index type="integer">10</index>
+        <title>Basketball</title>
+        <link nil="true"/>
+        <nofollow nil="true"/>
+        <noreferer nil="true"/>
+        <target nil="true"/>
+        <description nil="true"/>
+        <parent nil="true"/>
+        <items type="array">
+          <item>
+            <index type="integer">12</index>
+            <title>Roster</title>
+            <link>https://sports.yahoo.com/ncaab/teams/tal/roster/</link>
+            <nofollow type="integer">1</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target>_blank</target>
+            <description nil="true"/>
+            <parent type="integer">10</parent>
+          </item>
+          <item>
+            <index type="integer">13</index>
+            <title>Statistics</title>
+            <link>https://sports.yahoo.com/ncaab/teams/tal/stats/</link>
+            <nofollow type="integer">1</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target>_blank</target>
+            <description nil="true"/>
+            <parent type="integer">10</parent>
+          </item>
+          <item>
+            <index type="integer">14</index>
+            <title>Commitment List</title>
+            <link>https://rivals.yahoo.com/texas/basketball/recruiting/commitments/</link>
+            <nofollow type="integer">0</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target nil="true"/>
+            <description nil="true"/>
+            <parent type="integer">10</parent>
+            <items type="array">
+              <item>
+                <index type="integer">11</index>
+                <title>Schedule</title>
+                <link>https://sports.yahoo.com/ncaab/teams/tal/schedule/</link>
+                <nofollow type="integer">1</nofollow>
+                <noreferer type="integer">0</noreferer>
+                <target>_blank</target>
+                <description nil="true"/>
+                <parent type="integer">14</parent>
+              </item>
+            </items>
+          </item>
+          <item>
+            <index type="integer">15</index>
+            <title>Rankings</title>
+            <link>https://rivals.yahoo.com/texas/basketball/recruiting/rankings/2015</link>
+            <nofollow type="integer">0</nofollow>
+            <noreferer type="integer">0</noreferer>
+            <target nil="true"/>
+            <description nil="true"/>
+            <parent type="integer">10</parent>
+            <items type="array">
+              <item>
+                <index type="integer">17</index>
+                <title>Custom</title>
+                <link nil="true"/>
+                <nofollow nil="true"/>
+                <noreferer nil="true"/>
+                <target nil="true"/>
+                <description nil="true"/>
+                <parent type="integer">15</parent>
+                <items type="array">
+                  <item>
+                    <index type="integer">16</index>
+                    <title>Custom</title>
+                    <link nil="true"/>
+                    <nofollow nil="true"/>
+                    <noreferer nil="true"/>
+                    <target nil="true"/>
+                    <description nil="true"/>
+                    <parent type="integer">17</parent>
+                  </item>
+                </items>
+              </item>
+              <item>
+                <index type="integer">18</index>
+                <title>College Teams</title>
+                <link nil="true"/>
+                <nofollow nil="true"/>
+                <noreferer nil="true"/>
+                <target nil="true"/>
+                <description nil="true"/>
+                <parent type="integer">15</parent>
+              </item>
+              <item>
+                <index type="integer">19</index>
+                <title>High School Teams</title>
+                <link nil="true"/>
+                <nofollow nil="true"/>
+                <noreferer nil="true"/>
+                <target nil="true"/>
+                <description nil="true"/>
+                <parent type="integer">15</parent>
+              </item>
+            </items>
+          </item>
+        </items>
+      </item>
+    </items>
+  </site>
+</sites>
