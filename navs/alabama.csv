@@ -1,0 +1,20 @@
+index,title,link,nofollow,noreferer,target,description,parent
+1,Home,https://texas.n.rivals.com/,0,0,,,
+2,Forums,https://texas.forums.rivals.com/,0,0,,,
+3,Football,,0,0,,,
+4,Schedule,http://sports.yahoo.com/ncaaf/teams/tth/schedule/,1,0,_blank,,3
+5,Roster,http://sports.yahoo.com/ncaaf/teams/tth/roster/,1,0,_blank,,3
+6,Statistics,http://sports.yahoo.com/ncaaf/teams/tth/stats/,1,0,_blank,,3
+7,Commitment List,https://rivals.yahoo.com/texas/football/recruiting/commitments/,0,0,,,3
+8,Rankings,https://rivals.yahoo.com/texas/football/recruiting/rankings/2015,0,0,,,
+9,Team Rankings,https://rivals.yahoo.com/texas/football/recruiting/teamrank/2016/all/all,0,0,,,
+10,Basketball,,,,,,
+11,Schedule,https://sports.yahoo.com/ncaab/teams/tal/schedule/,1,0,_blank,,14
+12,Roster,https://sports.yahoo.com/ncaab/teams/tal/roster/,1,0,_blank,,10
+13,Statistics,https://sports.yahoo.com/ncaab/teams/tal/stats/,1,0,_blank,,10
+14,Commitment List,https://rivals.yahoo.com/texas/basketball/recruiting/commitments/,0,0,,,10
+15,Rankings,https://rivals.yahoo.com/texas/basketball/recruiting/rankings/2015,0,0,,,10
+16,Custom,,,,,,17
+17,Custom,,,,,,15
+18,College Teams,,,,,,15
+19,High School Teams,,,,,,15
