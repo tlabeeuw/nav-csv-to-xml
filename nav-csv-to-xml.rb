@@ -3,7 +3,8 @@
 require 'csv'
 require 'active_support/all'
 
-navs = {}
+navs_for_json = {}
+navs_for_xml = []
 
 Dir['navs/*.csv'].each do |csv_file|
   nav = CSV.read(csv_file, headers: true).map(&:to_hash)
@@ -13,7 +14,13 @@ Dir['navs/*.csv'].each do |csv_file|
   nav_by_parent.each do |parent, navs|
     nav_by_index[parent]['items'] = navs
   end
-  navs[File.basename(csv_file, '.csv')] = nav_by_index.values.select { |nav| nav['parent'].nil? }
+
+  site_name = File.basename(csv_file, '.csv')
+  items = nav_by_index.values.select { |nav| nav['parent'].nil? }
+
+  navs_for_json[site_name] = items
+  navs_for_xml << { site_name: site_name, items: items}
 end
 
-puts navs.to_xml
+puts navs_for_json
+puts navs_for_xml.to_xml(root: 'sites')
