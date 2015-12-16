@@ -6,7 +6,7 @@ require 'active_support/all'
 navs_for_json = {}
 navs_for_xml = []
 
-Dir['navs/*.csv'].each do |csv_file|
+Dir['in/*.csv'].each do |csv_file|
   nav = CSV.read(csv_file, headers: true, converters: [:integer]).map(&:to_hash)
   nav_by_parent = nav.group_by { |nav| nav['parent'] }.select { |parent, _| parent }
   nav_by_index = {}
